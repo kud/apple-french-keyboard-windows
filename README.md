@@ -29,3 +29,8 @@ Simply run `dist/switch-cmd-ctrl.reg`.
 Download this [app](http://uxsoft.cz/projects/apple-wireless-keyboard/), it will do the job for you.
 
 Enjoy! And if you have any better way, or any good idea, do not hesitate to make a PR or create an issue.
+
+## Note
+
+- There's no `right-ctrl` (yet?). Could be sometimes a problem. Last time, I played to a specific game, it askes me to make one choice between two solutions. To make this choice, it was `left-ctrl` or `right-ctrl`. I couldn't choose the `right-ctrl` choice. Too bad.
+- `left-alt` doesn't work like `right-alt`. `left-alt` is reserved to Windows. All characters are available only via `right-alt`. Do not use `left-alt` for that, you'll be surprised if not.
