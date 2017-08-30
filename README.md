@@ -26,7 +26,7 @@ Simply run `dist/switch-cmd-ctrl.reg`.
 
 ## How to use media controls
 
-Download this [app](http://uxsoft.cz/projects/apple-wireless-keyboard/), it will do the job for you.
+Download this [app](https://github.com/uxsoft/AppleWirelessKeyboard), it will do the job for you.
 
 Enjoy! And if you have any better way, or any good idea, do not hesitate to make a PR or create an issue.
 
